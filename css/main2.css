@@ -1,0 +1,22 @@
+footer{
+text-align: center;
+background-color: rgb(85, 86, 150);
+color: antiquewhite;
+}
+
+nav{
+color: black;
+text-align: right;
+font-size: 0.8em;
+}
+header{
+    background-color: rgb(175, 57, 57);
+
+}
+
+h3{
+    background-color: rgb(46, 166, 235);
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
